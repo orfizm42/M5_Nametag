@@ -22,9 +22,9 @@ void setup() {
     // ------------------------------------------------------------------
 
     pageManager.addPage("Profile", {
-        "Taro Yamada",
-        "@taro_dev",
-        "github.com/taro",
+        "Your name",
+        "@your name_dev",
+        "github.com/your name",
     });
 
     pageManager.addPage("Now", {
