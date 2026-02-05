@@ -61,13 +61,12 @@ constexpr int CONTENT_LINE_HEIGHT = 18;
 // ---------------------------------------------------------------------------
 // Layout – Tags
 // ---------------------------------------------------------------------------
-constexpr int TAG_TEXT_SIZE      = 1;
+constexpr int TAG_TEXT_SIZE      = 2;
 constexpr int TAG_PADDING_X     = 4;
 constexpr int TAG_PADDING_Y     = 2;
-constexpr int TAG_MARGIN         = 4;
+constexpr int TAG_MARGIN         = 5;
 constexpr int TAG_RADIUS         = 3;
-constexpr int TAG_LINE_HEIGHT   = 14;
-
+constexpr int TAG_LINE_HEIGHT   = 21;
 // ---------------------------------------------------------------------------
 // Layout – Status bar
 // ---------------------------------------------------------------------------
